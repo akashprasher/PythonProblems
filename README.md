@@ -22,3 +22,5 @@ The café with the maximum number of cats.
     Sample Output 1:
 
     Paws
+
+[Solution](./Cat-Cafes.py)
