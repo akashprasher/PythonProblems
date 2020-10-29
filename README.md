@@ -18,6 +18,7 @@ The café with the maximum number of cats.
     Paws 11
     Kittens 9
     MEOW
+
     Sample Output 1:
 
     Paws
