@@ -43,3 +43,5 @@ Write a program that gets information about a movie from the input and presents 
     Sample Output 1:
 
     Fight Club (dir. David Fincher) came out in 1999
+
+[Solution](./film.py)
