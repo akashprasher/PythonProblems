@@ -102,3 +102,5 @@ Write a program that calculates the length of a word from the input and prints i
     Sample Output 1:
 
     serendipity has 11 letters
+
+[Solution](./Lenth-of-word.py)
