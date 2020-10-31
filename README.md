@@ -87,3 +87,5 @@ __*Round your calculated_tax to the nearest integer.*__
     Sample Output 2:
 
     The tax for 99999 is 25%. That is 25000 dollars!
+
+[Solution](./Tax-Brackets.py)
