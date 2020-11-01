@@ -129,3 +129,5 @@ Sample Input 0
 Sample Output 0
 
     5
+
+[Solution](./Runner-up-score.py)
