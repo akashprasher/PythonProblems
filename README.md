@@ -23,7 +23,7 @@ The café with the maximum number of cats.
 
     Paws
 
-[Solution](./Cat-Cafes.py)
+[Solution](./Solution%20Files/Cat-Cafes.py)
 
 ### Probelem - 2. String formatting - Film
 
@@ -44,7 +44,7 @@ Write a program that gets information about a movie from the input and presents 
 
     Fight Club (dir. David Fincher) came out in 1999
 
-[Solution](./film.py)
+[Solution](./Solution%20Files/film.py)
 
 ### Probelem - 3. String formatting  Tax brackets
 
@@ -88,7 +88,7 @@ __*Round your calculated_tax to the nearest integer.*__
 
     The tax for 99999 is 25%. That is 25000 dollars!
 
-[Solution](./Tax-Brackets.py)
+[Solution](./Solution%20Files/Tax-Brackets.py)
 
 ### Probelem - 4. String formatting - How long is that word?
 
@@ -103,7 +103,7 @@ Write a program that calculates the length of a word from the input and prints i
 
     serendipity has 11 letters
 
-[Solution](./Lenth-of-word.py)
+[Solution](./Solution%20Files/Lenth-of-word.py)
 
 ### Probelem - 5. Find the Runner-Up Score!
 
@@ -130,4 +130,4 @@ Sample Output 0
 
     5
 
-[Solution](./Runner-up-score.py)
+[Solution](./Solution%20Files/Runner-up-score.py)
