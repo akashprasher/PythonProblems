@@ -150,4 +150,4 @@ Sample Output 1:
 
     4.5
 
-[Solution](./Solution%20Files/Runner-up-score.py)
+[Solution](./Solution%20Files/The-average-of-all-numbers.py)
