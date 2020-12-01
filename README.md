@@ -151,3 +151,28 @@ Sample Output 1:
     4.5
 
 [Solution](./Solution%20Files/The-average-of-all-numbers.py)
+
+### Problem - 7. If statement - Cook book
+Any recipe starts with a list of ingredients. Below is an abstract of a cookbook with the ingredients for some dishes. Write a program that tells you what recipe you can make based on the ingredient you have.
+
+###### The input format:
+
+A name of some ingredient.
+
+###### The output format:
+
+A message that says "food time!" where "food" stands for the dish that contains this ingredient. For example, "pizza time!". If the ingredient is featured in several recipes, write about all of them in the order they're featured in the cook book.
+
+Sample Input 1:
+
+    basil
+Sample Output 1:
+
+    pasta time!
+Sample Input 2:
+
+    flour
+Sample Output 2:
+
+    apple pie time!
+    chocolate cake time!
