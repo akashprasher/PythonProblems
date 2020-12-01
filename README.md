@@ -176,3 +176,5 @@ Sample Output 2:
 
     apple pie time!
     chocolate cake time!
+
+[Solution](./Solution%20Files/Cook-book.py)
