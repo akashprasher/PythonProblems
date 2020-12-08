@@ -180,4 +180,4 @@ Sample Output 2:
 [Solution](./Solution%20Files/Cook-book.py)
 
 ### Problem - 8. Monte Carlo simulation
-Suppose that three random numbers are generated. Determine the probability that the numbers are in decreasing order using a Monte Carlo simulatio
+Suppose that three random numbers are generated. Determine the probability that the numbers are in decreasing order using a Monte Carlo Simulation
