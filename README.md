@@ -181,3 +181,5 @@ Sample Output 2:
 
 ### Problem - 8. Monte Carlo simulation
 Suppose that three random numbers are generated. Determine the probability that the numbers are in decreasing order using a Monte Carlo Simulation
+
+[Solution](./Solution%20Files/Monte-Carlo-Simulation.py)
