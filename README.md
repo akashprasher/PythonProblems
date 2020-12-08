@@ -178,3 +178,6 @@ Sample Output 2:
     chocolate cake time!
 
 [Solution](./Solution%20Files/Cook-book.py)
+
+### Problem - 8. Monte Carlo simulation
+Suppose that three random numbers are generated. Determine the probability that the numbers are in decreasing order using a Monte Carlo simulatio
