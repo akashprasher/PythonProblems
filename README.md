@@ -183,3 +183,35 @@ Sample Output 2:
 Suppose that three random numbers are generated. Determine the probability that the numbers are in decreasing order using a Monte Carlo Simulation
 
 [Solution](./Solution%20Files/Monte-Carlo-Simulation.py)
+
+### Problem - 9. The Louvre
+You are writing a program that deals with the paintings that hang in the Louvre. You've created a class Painting and are planning to add some class methods and a class constructor.
+
+What'll be common for all paintings is that they all belong to the same museum, obviously, but the differences will be in the title of the painting, the painter and the year of creation.
+
+Finish writing the class Painting and then process some information from the input.
+
+###### The input format:
+
+The input contains 3 lines: the first is the title of the painting, the second with the artist and the third with the year of the creation.
+
+###### The output format:
+
+A string of the kind: "Title" by Artist (Year) hangs in the Louvre.
+
+Sample Input 1:
+
+    Mona Lisa
+    Leonardo da Vinci
+    1503
+Sample Output 1:
+
+    "Mona Lisa" by Leonardo da Vinci (1503) hangs in the Louvre.
+Sample Input 2:
+
+    The Fortune Teller
+    Caravaggio
+    1600
+Sample Output 2:
+
+    "The Fortune Teller" by Caravaggio (1600) hangs in the Louvre.
