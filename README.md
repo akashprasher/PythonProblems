@@ -215,3 +215,5 @@ Sample Input 2:
 Sample Output 2:
 
     "The Fortune Teller" by Caravaggio (1600) hangs in the Louvre.
+
+[Solution](./Solution%20Files/The-Louvre.py)
