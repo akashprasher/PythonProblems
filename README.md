@@ -242,3 +242,5 @@ How to compute below times in Round Robin using a program?
     Turn Around Time: Time Difference between completion time and arrival time. Turn Around Time = Completion Time – Arrival Time
     Waiting Time(W.T): Time Difference between turn around time and burst time.
     Waiting Time = Turn Around Time – Burst Time
+
+[Solution](./Solution%20Files/first-come-first-serve.py)
